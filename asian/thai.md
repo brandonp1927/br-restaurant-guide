@@ -2,7 +2,7 @@
 ## Asian --> Thai
 ---
 Select a restaurant:
-## Glow Thai http://glowthai.com/
+## Glow Thai 
 ---
 Back to Asian  
 Start Over
